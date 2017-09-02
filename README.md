@@ -1,3 +1,5 @@
+# Java, Android Interview
+
 면접을 보고 정리하거나 지인에게 면접 후기를 듣고 정리했습니다.
 날짜는 면접 날짜 or 지인에게 들은 후기 입니다. 
 
@@ -17,6 +19,8 @@
 - https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDsWOOn_P0EmAWB8DArS3Fk
 - https://www.youtube.com/playlist?list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
+- https://developer.android.com/guide/index.html (API 가이드는 전체적으로 한번 보면 좋은 듯 하네요)
+- http://www.yes24.com/24/Goods/41085242?Acode=101 
 
 
 # 2017-06-04
