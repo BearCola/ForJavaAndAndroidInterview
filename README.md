@@ -9,18 +9,27 @@
 문서로 정리된 것은 파일로 업로드하였습니다. 
 도움이 된 강좌 및 사이트는 아래와 같습니다. 
 
-- https://brunch.co.kr/magazine/d-turnover 
-- https://www.udemy.com/993276/
-- https://www.udacity.com/course/new-android-fundamentals--ud851 (한글 자막 있음)
-- https://www.udacity.com/course/android-performance--ud825 (한글 자막 있음)
+자바 
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck (자바 기초)
 - https://www.youtube.com/playlist?list=PLW2UjW795-f5LNeTO6VQB1ZIeZJ_kwEG1 (자바 기초)
 - http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php (자바 기초 / 회원 가입 시 무료)
-- https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDsWOOn_P0EmAWB8DArS3Fk
+
+자바 디자인 패턴
 - https://www.youtube.com/playlist?list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
+
+안드로이드 
+- https://www.udacity.com/course/new-android-fundamentals--ud851 (한글 자막 있음)
+- https://www.udacity.com/course/android-performance--ud825 (한글 자막 있음)
 - https://developer.android.com/guide/index.html (API 가이드는 전체적으로 한번 보면 좋은 듯 하네요)
 - http://www.yes24.com/24/Goods/41085242?Acode=101 
+
+- https://brunch.co.kr/magazine/d-turnover 
+- https://www.udemy.com/993276/
+- https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
+
+시간이 되신다면 최근에 나온 요즘 핫한 코틀린 인 액션도 공부하시면 도움이 되실 것 같습니다 
+http://www.yes24.com/24/Goods/55148593?Acode=101
 
 만약 시간에 여유가 많다면 아래도 참고하는 것이 좋다고 하네요 (저도 다 읽진 못 했습니다)
 - https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ref=sr_1_1?ie=UTF8&qid=1504354968&sr=8-1&keywords=elements+of+programming+interviews+in+java
@@ -37,7 +46,6 @@ https://opentutorials.org/module/2870/16475
 - 액티비티 생명 주기
 - 안드로이드에서 Enum 사용을 자제시켰는데 그 이유는 무엇인가?
 - 대용량 Bitmap 을 불러올 경우 메모리 문제가 있기 쉬운데 이럴 떄 어떻게 처리하는가?
-
 
 
 # 2017-06-17
@@ -103,7 +111,8 @@ https://opentutorials.org/module/2870/16567
 - 안드로이드 Memory Leak
 - Strong Reference vs Weak Reference in Java
 
-# 2017-06-21 N사 전화면접 
+
+# 2017-06-21 
 https://opentutorials.org/module/2870/16572
 
 - 이직 사유 
@@ -143,7 +152,7 @@ https://opentutorials.org/module/2870/16710
 - 해시맵을 만들려면 무슨 자료구조를 쓸까?
 
 
-# 2017-07-05 N Labs
+# 2017-07-05 
 https://opentutorials.org/module/2870/16724
 
 - Recycler View Holder
@@ -191,7 +200,7 @@ https://opentutorials.org/module/2870/16875
 - Zygote 에 대해서 
 
 
-# 2017-07-24 N사 면접
+# 2017-07-24 
 https://opentutorials.org/module/2870/16969
 
 - 자신의 장점과 단점
@@ -247,8 +256,7 @@ https://opentutorials.org/module/2870/16969
 - NDK 의 개념
 
 
-# 2017-08-04 N사 임원 면접
-
+# 2017-08-04 
 - Weak Reference / Soft Reference / Strong Reference 자세히 설명 및 GC 과정 
 - ListView 와 RecyclerView 차이점 및 ViewHolder 를 ListView 에서 구현할 경우 RecyclerView 와 성능차이가 있는지 여부
 - HTTP 통신 구현 경험 
@@ -267,6 +275,7 @@ https://opentutorials.org/module/2870/16969
 - mearsure&layout, style&theme, appcompat
 - eventbus, volley, realm, sqlite
 - bitmap 로딩 및 운용방법
+- OkHttp
 
 
 
