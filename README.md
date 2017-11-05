@@ -263,19 +263,15 @@ https://opentutorials.org/module/2870/16969
 
 
 # 정리 및 검색을 통해 개념 파악 필요한 용어들 
-
-- zip / CountDownLatcher / flatMap
-- 레트로핏, 글라이드, 피카소, 슈가레코드, Dagger, RxJava, RxAndroid, Fresco, ButterKnife, sqlbrite&delight, greendao
 - Junit, mockito, ATSL, stetho, leakcanary
 - Android 아키텍트 패턴 (MVP, MVVM 등)
-- Android UnitTest
-- TDD
+- RxJava, RxAndroid
+- TDD, Android UnitTest
+- 레트로핏, OKHttp, 글라이드, 피카소, 슈가레코드, Dagger, , eventbus, volley, Fresco, ButterKnife, Realm, sqlbrite&delight, greendao
 - GCM, FCM, Firebase 
-- Hot Cold Observable (RxJava)
 - mearsure&layout, style&theme, appcompat
-- eventbus, volley, realm, sqlite
 - bitmap 로딩 및 운용방법
-- OkHttp
+- zip / CountDownLatcher / flatMap
 
 
 
