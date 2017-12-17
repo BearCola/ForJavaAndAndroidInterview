@@ -38,6 +38,17 @@ http://www.yes24.com/24/Goods/55148593?Acode=101
 - https://www.inflearn.com/course/%EC%B5%9C%EB%B0%B1%EC%A4%80%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/
 
 
+# 참고할만한 Github 
+- https://github.com/googlesamples
+- https://github.com/googlesamples/android-architecture
+- https://github.com/googlesamples/android-architecture-components
+- https://github.com/googlesamples/android-topeka (kotlin app sample)
+- https://github.com/googlesamples/android-PictureInPicture
+
+- https://github.com/codepath/android_guides
+- https://github.com/iluwatar/java-design-patterns
+
+
 
 # 2017-06-04
 https://opentutorials.org/module/2870/16475
@@ -47,15 +58,6 @@ https://opentutorials.org/module/2870/16475
 - 안드로이드에서 Enum 사용을 자제시켰는데 그 이유는 무엇인가?
 - 대용량 Bitmap 을 불러올 경우 메모리 문제가 있기 쉬운데 이럴 떄 어떻게 처리하는가?
 
-# Github 
-- https://github.com/googlesamples
-- https://github.com/googlesamples/android-architecture
-- https://github.com/googlesamples/android-architecture-components
-- https://github.com/googlesamples/android-topeka (kotlin app sample)
-- https://github.com/googlesamples/android-PictureInPicture
-
-- https://github.com/codepath/android_guides
-- https://github.com/iluwatar/java-design-patterns
 
 # 2017-06-17
 https://opentutorials.org/module/2870/16545
