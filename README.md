@@ -47,6 +47,15 @@ https://opentutorials.org/module/2870/16475
 - 안드로이드에서 Enum 사용을 자제시켰는데 그 이유는 무엇인가?
 - 대용량 Bitmap 을 불러올 경우 메모리 문제가 있기 쉬운데 이럴 떄 어떻게 처리하는가?
 
+# Github 
+- https://github.com/googlesamples
+- https://github.com/googlesamples/android-architecture
+- https://github.com/googlesamples/android-architecture-components
+- https://github.com/googlesamples/android-topeka (kotlin app sample)
+- https://github.com/googlesamples/android-PictureInPicture
+
+- https://github.com/codepath/android_guides
+- https://github.com/iluwatar/java-design-patterns
 
 # 2017-06-17
 https://opentutorials.org/module/2870/16545
