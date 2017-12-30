@@ -39,6 +39,8 @@ http://www.yes24.com/24/Goods/55148593?Acode=101
 
 
 # 참고할만한 Github 
+
+- https://github.com/esoxjem/MovieGuide . (MVP pattern, RxJava, Dagger 2)
 - https://github.com/googlesamples
 - https://github.com/googlesamples/android-architecture
 - https://github.com/googlesamples/android-architecture-components
