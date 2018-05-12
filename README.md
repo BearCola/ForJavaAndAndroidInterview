@@ -17,6 +17,7 @@
 
 자바 디자인 패턴
 - https://www.youtube.com/playlist?list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
+- http://www.yes24.com/24/goods/1778966?scode=032&OzSrank=1
 
 안드로이드 
 - https://www.udacity.com/course/new-android-fundamentals--ud851 (한글 자막 있음)
@@ -31,12 +32,17 @@
 시간이 되신다면 최근에 나온 요즘 핫한 코틀린 인 액션도 공부하시면 도움이 되실 것 같습니다 
 http://www.yes24.com/24/Goods/55148593?Acode=101
 
-만약 시간에 여유가 많다면 아래도 참고하는 것이 좋다고 하네요 (저도 다 읽진 못 했습니다)
-- https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ref=sr_1_1?ie=UTF8&qid=1504354968&sr=8-1&keywords=elements+of+programming+interviews+in+java
-- http://www.yes24.com/24/goods/44305533?scode=032&OzSrank=1
-- 알고리즘 문제 해결 전략 (구종만 저)
-- https://www.inflearn.com/course/%EC%B5%9C%EB%B0%B1%EC%A4%80%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B8%B0%EC%B4%88/
+샘플 소스는 아래에 있고 이걸로 직접 변경하면서 보는 것이 도움되는 것 같습니다. 
+- https://github.com/Kotlin/kotlin-in-action
 
+추가로 이번에 구글 IO 2018 에서 소개된 Android Jetpack 도 알아두시면 좋을 것 같네요
+- https://developer.android.com/jetpack/
+- https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2
+
+그리고 Reactive 가 떠오르면서 RxJava도 공부하면 좋을 듯 합니다. 
+- http://www.yes24.com/24/goods/45506284?scode=032&OzSrank=1 (입문서)
+- http://www.yes24.com/24/goods/38994496?scode=032&OzSrank=2 (레퍼런스)
+- https://www.amazon.com/Learning-RxJava-Concurrent-responsive-applications-ebook/dp/B01N1UNBME/ref=sr_1_2?ie=UTF8&qid=1526134914&sr=8-2&keywords=rxjava (영문이지만 어렵지 않게 되어 있어요 Kindle 버전이 저렴해서 추천합니다)
 
 # 참고할만한 Github 
 
@@ -50,8 +56,6 @@ http://www.yes24.com/24/Goods/55148593?Acode=101
 - https://github.com/codepath/android_guides
 - https://github.com/iluwatar/java-design-patterns
 
-
-
 # 2017-06-04
 https://opentutorials.org/module/2870/16475
 
@@ -59,7 +63,6 @@ https://opentutorials.org/module/2870/16475
 - 액티비티 생명 주기
 - 안드로이드에서 Enum 사용을 자제시켰는데 그 이유는 무엇인가?
 - 대용량 Bitmap 을 불러올 경우 메모리 문제가 있기 쉬운데 이럴 떄 어떻게 처리하는가?
-
 
 # 2017-06-17
 https://opentutorials.org/module/2870/16545
@@ -75,7 +78,6 @@ https://opentutorials.org/module/2870/16545
 - Singleton 동기화
 - Heap Data Stack 영역
 - Lambda 식이란?
-
 
 # 2017-06-18
 https://opentutorials.org/module/2870/16547
@@ -277,14 +279,13 @@ https://opentutorials.org/module/2870/16969
 
 # 정리 및 검색을 통해 개념 파악 필요한 용어들 
 - Junit, mockito, ATSL, stetho, leakcanary
-- Android 아키텍트 패턴 (MVP, MVVM 등)
+- Android 아키텍트 패턴 (MVP, MVVM, MVI)
 - RxJava, RxAndroid
 - TDD, Android UnitTest
-- 레트로핏, OKHttp, 글라이드, 피카소, 슈가레코드, Dagger, , eventbus, volley, Fresco, ButterKnife, Realm, sqlbrite&delight, greendao
-- GCM, FCM, Firebase 
+- 레트로핏, OKHttp, Glide, Dagger2
+- FCM, Firebase 
 - mearsure&layout, style&theme, appcompat
 - bitmap 로딩 및 운용방법
-- zip / CountDownLatcher / flatMap
 
 
 
