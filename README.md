@@ -29,6 +29,14 @@
 - https://www.udemy.com/993276/
 - https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
 
+아래 미디엄 블로그는 안드로이드 개발 관련하여 많은 공감이 가는 글이었습니다. 
+- https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51
+
+위 미디엄 블로그 관련된 Github 내용도 좋으니 한번 참고해보세요 
+- https://github.com/aritraroy/UltimateAndroidReference
+- https://github.com/pcqpcq/open-source-android-apps
+- https://snowdream.github.io/awesome-android/
+
 시간이 되신다면 최근에 나온 요즘 핫한 코틀린 인 액션도 공부하시면 도움이 되실 것 같습니다 
 http://www.yes24.com/24/Goods/55148593?Acode=101
 
