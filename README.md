@@ -85,6 +85,7 @@ GOF가 가장 유명하지만 헤드퍼스트 디자인 패턴이 쉽게 쓰여�
 구글 검색하면 안 나오는게 없는 것 같아요. 일단 궁금한 부분의 키워드를 적어놨다가 검색하는 것이 도움이 되었습니다. 
 
 ## 참고할만한 Github 
+- https://github.com/MaximAbramchuck/awesome-interview-questions#android (각종 인터뷰 관련 내용이 있습니다)
 - https://github.com/googlesamples
 - https://github.com/googlesamples/android-architecture
 - https://github.com/googlesamples/android-architecture-components
@@ -100,6 +101,9 @@ https://opentutorials.org/module/2870/16475
 - 액티비티 생명 주기
 - 안드로이드에서 Enum 사용을 자제시켰는데 그 이유는 무엇인가?
 - 대용량 Bitmap 을 불러올 경우 메모리 문제가 있기 쉬운데 이럴 떄 어떻게 처리하는가?
+- View 의 터치 이벤트 전달과정
+- View 의 Measure pass, Layout pass 에 대해서 설명
+- MeasureSpec
 
 # 2017-06-17
 https://opentutorials.org/module/2870/16545
