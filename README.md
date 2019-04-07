@@ -37,7 +37,7 @@ GOF가 가장 유명하지만 헤드퍼스트 디자인 패턴이 쉽게 쓰여�
 - https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51
 
 안드로이드 관련 트렌드 및 기술 내용들이 있어 좋았습니다. 
-https://www.charlezz.com/
+- https://www.charlezz.com/
 
 ### 코틀린
 입문은 커니의 코틀린으로 하고 추가적으로 코틀린 인 액션으로 보면 좋을 듯 하네요 
