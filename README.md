@@ -9,59 +9,76 @@
 문서로 정리된 것은 파일로 업로드하였습니다. 
 도움이 된 강좌 및 사이트는 아래와 같습니다. 
 
-자바 
+## 자바 
+코틀린으로 바껴가고 있는 추세이지만 자바 지식이 기본적으로 필요한 부분입니다. 아래 공유드린 부분은 기초 부분이라
+자바 경험이 있으시면 그냥 넘어가셔도 될 것 같네요. 만약 기초가 너무 없다면 기본서 책을 하나 보시는 것을 추천 드립니다.  
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck (자바 기초)
 - https://www.youtube.com/playlist?list=PLW2UjW795-f5LNeTO6VQB1ZIeZJ_kwEG1 (자바 기초)
 - http://www.orentec.co.kr/teachlist/JAVA_BASIC_1/teach_sub1.php (자바 기초 / 회원 가입 시 무료)
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDsWOOn_P0EmAWB8DArS3Fk
 
-자바 디자인 패턴
-- https://www.youtube.com/playlist?list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
-- http://www.yes24.com/24/goods/1778966?scode=032&OzSrank=1
+## 자바 디자인 패턴
+GOF가 가장 유명하지만 헤드퍼스트 디자인 패턴이 쉽게 쓰여져있고 학습하기 좋다고 생각합니다.
 
-안드로이드 
+- http://www.yes24.com/24/goods/1778966?scode=032&OzSrank=1
+- https://www.youtube.com/playlist?list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
+
+## 안드로이드 
 - https://www.udacity.com/course/new-android-fundamentals--ud851 (한글 자막 있음)
 - https://www.udacity.com/course/android-performance--ud825 (한글 자막 있음)
 - https://developer.android.com/guide/index.html (API 가이드는 전체적으로 한번 보면 좋은 듯 하네요)
-- http://www.yes24.com/24/Goods/41085242?Acode=101 
+- http://www.yes24.com/24/Goods/41085242?Acode=101 (중급 서적으로 보면 도움이 되네요)
 
+면접 때 많이 도움이 되었던 블로그 및 영상입니다. 
 - https://brunch.co.kr/magazine/d-turnover 
-- https://www.udemy.com/993276/
 - https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ
 
 아래 미디엄 블로그는 안드로이드 개발 관련하여 많은 공감이 가는 글이었습니다. 
 - https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51
 
-위 미디엄 블로그 관련된 Github 내용도 좋으니 한번 참고해보세요 
-- https://github.com/aritraroy/UltimateAndroidReference
-- https://github.com/pcqpcq/open-source-android-apps
-- https://snowdream.github.io/awesome-android/
-
-시간이 되신다면 최근에 나온 요즘 핫한 코틀린 인 액션도 공부하시면 도움이 되실 것 같습니다 
-http://www.yes24.com/24/Goods/55148593?Acode=101
+## 코틀린
+입문은 커니의 코틀린으로 하고 추가적으로 코틀린 인 액션으로 보면 좋을 듯 하네요 
+- http://www.yes24.com/Product/Goods/56921334?scode=032&OzSrank=1
+- http://www.yes24.com/24/Goods/55148593?Acode=101
 
 샘플 소스는 아래에 있고 이걸로 직접 변경하면서 보는 것이 도움되는 것 같습니다. 
 - https://github.com/Kotlin/kotlin-in-action
 
-추가로 이번에 구글 IO 2018 에서 소개된 Android Jetpack 도 알아두시면 좋을 것 같네요
-- https://developer.android.com/jetpack/
-- https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2
-
-그리고 Reactive 가 떠오르면서 RxJava도 공부하면 좋을 듯 합니다. 
+## RxJava
+- http://reactivex.io/ (영문이지만 홈페이지가 가장 정확하죠)
 - http://www.yes24.com/24/goods/45506284?scode=032&OzSrank=1 (입문서)
 - http://www.yes24.com/24/goods/38994496?scode=032&OzSrank=2 (레퍼런스)
-- https://www.amazon.com/Learning-RxJava-Concurrent-responsive-applications-ebook/dp/B01N1UNBME/ref=sr_1_2?ie=UTF8&qid=1526134914&sr=8-2&keywords=rxjava (영문이지만 어렵지 않게 되어 있어요 Kindle 버전이 저렴해서 추천합니다)
 
-# 참고할만한 Github 
+## 그외 도움이 될만한 부분
+아무래도 프로그래밍 관련 부분은 변화가 빠르다 보니 책이 시간이 지나면 현재 사항과 동떨어질 수 있다고 생각합니다. 
+그런 부분에 있어서는 영상의 경우에는 현재 버전에 맞게 계속 업데이트를 해주는 경우도 많고 해서 조금 더 선호하게 되는 것 같아요. 
 
-- https://github.com/esoxjem/MovieGuide . (MVP pattern, RxJava, Dagger 2)
+유데미 사이트의 경우에는 유료지만 가격이 저렴합니다. 항상 세일하는 편이라 저렴하게 세일하면 11,000원 정도에 구매 가능하고
+상시로 관련 강좌 두개 묶음에 22,000원으로 할인을 해요. 영어 강의가 많지만 실습 위주라서 따라가기 어렵지 않습니다. 
+https://www.udemy.com/
+
+인프런은 한국의 유데미 느낌인데요. 강좌의 수는 유데미 보다 많이 부족하지만 한국어이고 잘 가르쳐주시는 분들도 많아서 샘플 강좌를 들어보고 
+괜찮으면 결제하는 것도 좋다고 생각해요
+https://www.inflearn.com/
+
+유다시티의 경우에는 실습을 진행하고 리뷰를 받는 나노디그리 과정은 유료지만 그외 무료 강좌가 매우 많아요. 특히 안드로이드, 코틀린, 플러터 등 내용도 있으니
+유용하다고 생각됩니다. 
+https://www.udacity.com/
+
+코세라는 유데미, 유다시티가 실무 위주라면 여기는 대학 강의 느낌이에요. 알고리즘 관련된 강좌나 다른 안드로이드, 자바 관련 강좌도 많고 무료로 들을 수 있는 부분도 
+많아서 도움이 됩니다. 
+https://www.coursera.org/
+
+유튜브로 검색하고 관련 영상을 찾아서 보면 빠르게 감이 잡히는 경우가 많은 것 같아요. 모르는 부분이 있으면 유튜브로 검색해서 관련 부분을 찾아보는 것도 도움이 됩니다. 
+https://www.youtube.com
+
+미디움 블로그에 기술 관련 부분이 많이 올라오더라고요. 한글로 올려주시는 분들도 있고 영문도 좋은 글들이 많아서 찾아서 보면 좋습니다. 
+https://medium.com/
+
+## 참고할만한 Github 
 - https://github.com/googlesamples
 - https://github.com/googlesamples/android-architecture
 - https://github.com/googlesamples/android-architecture-components
-- https://github.com/googlesamples/android-topeka (kotlin app sample)
-- https://github.com/googlesamples/android-PictureInPicture
-
-- https://github.com/codepath/android_guides
 - https://github.com/iluwatar/java-design-patterns
 
 # 2017-06-04
