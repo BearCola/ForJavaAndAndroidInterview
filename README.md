@@ -84,6 +84,11 @@ GOF가 가장 유명하지만 헤드퍼스트 디자인 패턴이 쉽게 쓰여�
 #### 유튜브 
 유튜브로 검색하고 관련 영상을 찾아서 보면 빠르게 감이 잡히는 경우가 많은 것 같아요. 모르는 부분이 있으면 유튜브로 검색해서 관련 부분을 찾아보는 것도 도움이 됩니다. 
 - https://www.youtube.com
+유튜브 안드로이드 관련 채널들 
+- Android Dialogs https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug
+- Android Developers… https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
+- Google Developers… https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw
+- Nate Ebel… https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ
 
 #### 미디움 
 미디움 블로그에 기술 관련 부분이 많이 올라오더라고요. 한글로 올려주시는 분들도 있고 영문도 좋은 글들이 많아서 찾아서 보면 좋습니다. 
@@ -92,12 +97,35 @@ GOF가 가장 유명하지만 헤드퍼스트 디자인 패턴이 쉽게 쓰여�
 #### 구글 
 구글 검색하면 안 나오는게 없는 것 같아요. 일단 궁금한 부분의 키워드를 적어놨다가 검색하는 것이 도움이 되었습니다. 
 
-## 참고할만한 Github 
+#### 참고할만한 Github 
 - https://github.com/MaximAbramchuck/awesome-interview-questions#android (각종 인터뷰 관련 내용이 있습니다)
 - https://github.com/googlesamples
 - https://github.com/googlesamples/android-architecture
 - https://github.com/googlesamples/android-architecture-components
 - https://github.com/iluwatar/java-design-patterns
+
+#### Google Code Lab
+직접 해보는 것이 가장 잘 습득하는 방법 같은데요. 그 부분에 있어서 코드랩은 정말 좋은 것 같습니다. 
+- https://codelabs.developers.google.com/
+
+#### 최신 트렌드를 위한 Android 관련 뉴스 레터 구독
+- Android Weekly… http://androidweekly.net/
+- #AndroidDev Digest… https://www.androiddevdigest.com/
+- Kotlin Weekly… http://www.kotlinweekly.net/
+- #AndroidSweets… https://androidsweets.ongoodbits.com/
+- AndroidLibHunt… https://android.libhunt.com/newsletter
+
+#### Medium Tag
+- https://medium.com/tag/android
+- https://medium.com/tag/androiddev
+- https://medium.com/google-developer-experts
+- https://medium.com/android-news
+- https://medium.com/googleplaydev
+- https://android-developers.googleblog.com/
+- https://blog.feedspot.com/android_developer_blogs/
+
+#### Realm Academy
+https://academy.realm.io/section/android/
 
 
 # 면접 날짜 및 내용 
