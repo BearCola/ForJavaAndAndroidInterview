@@ -127,9 +127,9 @@ GOF가 가장 유명하지만 헤드퍼스트 디자인 패턴이 쉽게 쓰여�
 #### Realm Academy
 https://academy.realm.io/section/android/
 
-
-# 네이버 노재춘 개발자님의 질문 내용들 
+### 네이버 노재춘 개발자님의 질문 내용들 
 https://github.com/ZeroBrain/Android-Fundamental
+
 
 # 면접 날짜 및 내용 
 
